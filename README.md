@@ -7,6 +7,7 @@ The purpose of this analysis is to use neural networks to create a binary classi
 ### Results: 
 
 Data Preprocessing
+
 **What variable(s) are considered the target(s) for your model?**
 The variable considered to be the target for this model is the "IS_SUCCESSFUL" column. This column indicates whether the money was used effectively. 
 
@@ -34,6 +35,7 @@ The variable considered to be neither a target nor a feature for this model is t
 
 
 **Compiling, Training, and Evaluating the Model**
+
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 The number of neurons include: 100 neurons for the first layer, 75, neurons for the second layer, and 10 neurons for the third layer. 
