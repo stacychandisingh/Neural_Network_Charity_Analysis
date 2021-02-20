@@ -36,7 +36,7 @@ The variable considered to be neither a target nor a feature for this model is t
 
 **Compiling, Training, and Evaluating the Model**
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
+**How many neurons, layers, and activation functions did you select for your neural network model, and why?**
 
 The number of neurons include: 100 neurons for the first layer, 75, neurons for the second layer, and 10 neurons for the third layer. 
 
@@ -51,14 +51,14 @@ The number of layers and number of neurons were selected to be at a reasonable n
 ![image1](resources/image1.PNG)
 
 
-Were you able to achieve the target model performance?
+**Were you able to achieve the target model performance?**
 
 Yes, I was able to achieve the target model performance of greater than 75%. The image below shows the predictive accuracy result of the model:
 
 ![image2](resources/image2.PNG)
 
 
-What steps did you take to try and increase model performance?
+**What steps did you take to try and increase model performance?**
 
 I changed the number of neurons and increased the number of hidden layers to be a total of three hidden layers. I also performed the process of binning/bucketing on the "NAME" column to find value counts in the column that were less than or equal to 5.
 
