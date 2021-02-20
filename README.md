@@ -3,7 +3,7 @@
 Overview of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis is to use neural networks to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
-Results: Using bulleted lists and images to support your answers, address the following questions.
+### Results: Using bulleted lists and images to support your answers, address the following questions.
 
 Data Preprocessing
 **What variable(s) are considered the target(s) for your model?**
@@ -52,7 +52,7 @@ I changed the number of neurons and increased the number of hidden layers to be 
 
 
 
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+### Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
 The overall results of the deep learning model is that it yielded an accuracy of 78.6%.
 
